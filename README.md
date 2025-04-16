@@ -106,7 +106,7 @@ When calling the API with a valid token:
 
 ## 📚 Learn More
 
-- [Auth0 M2M Docs](https://auth0.com/docs/get-started/authentication-and-authorization-flow/machine-to-machine-flow)
+- [Auth0 M2M Docs](https://auth0.com/docs)
 - [express-oauth2-jwt-bearer](https://www.npmjs.com/package/express-oauth2-jwt-bearer)
 
 ## Author
